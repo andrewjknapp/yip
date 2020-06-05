@@ -1,10 +1,10 @@
 # Yip
 
 > Created by: 
-> - Andrew Knapp - andrewjknapp
-> - Peter Kang - pswk1
-> - Brett Holleman - hollemantv
-> - Adrienne Fernandez - adriennefr
+> - Andrew Knapp - [andrewjknapp](https://github.com/andrewjknapp)
+> - Peter Kang - [pswk1](https://github.com/pswk1)
+> - Brett Holleman - [hollemantv](https://github.com/hollemantv)
+> - Adrienne Fernandez - [adriennefr](https://github.com/adriennefr)
 
 ## Link to Live Project
 
